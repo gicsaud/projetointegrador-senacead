@@ -46,3 +46,19 @@ Este projeto foi desenvolvido pelos estudantes:
 
 ## Diagrama de Classe UML
 <img src="assets/img/classeuml.png" alt="Diagrama de Caso de Uso">
+## Protótipo no Figma
+Acesse este link para visualizar o protótipo completo no Figma: https://www.figma.com/proto/pp18hvB4DJ4rFKFUF8VNEZ/Interface-de-Usu%C3%A1rio?node-id=47-241&node-type=canvas&t=kmuOfnyWdih80YFD-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
+## Telas de Cadastro
+
+##Cadastro Pessoa Física
+<img src="assets/img/cadastropf.png" alt="Cadastro de Pessoa Física">
+
+##Cadastro Pessoa Jurídica
+<img src="assets/img/cadastropj.png" alt="Cadastro de Pessoa Jurídica">
+
+##Cadastro de Usuário
+<img src="assets/img/cadastrouser.png" alt="Cadastro de Usuário">
+## Dashboard
+<img src="assets/img/dashboard.png" alt="Dashboard">
+## Login
+<img src="assets/img/login.png" alt="Login">
