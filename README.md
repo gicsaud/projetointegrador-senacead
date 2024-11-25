@@ -30,17 +30,6 @@ Este projeto foi desenvolvido pelos estudantes:
 - Página de edição de usuários.
 - Dashboard (homepage).
 
-
-
-## Documentação de cores
-
-| Cor               | Hexadecimal                                                |
-| ----------------- | ---------------------------------------------------------------- |
-| Inputs            | ![#198754](https://via.placeholder.com/10/198754?text=+) #198754 |
-| Buttons           | ![#031806](https://via.placeholder.com/10/031806?text=+) #031806 |
-| Pop-up            | ![#a3cfbb](https://via.placeholder.com/10/a3cfbb?text=+) #a3cfbb |
-
-
 ## Diagrama de Caso de Uso
 <img src="assets/img/casouso.jpg" alt="Diagrama de Caso de Uso">
 
